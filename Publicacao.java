@@ -40,9 +40,5 @@ public abstract class Publicacao {
         return quantidadeDisponivel;
     }
 
-    public void imprimirDados() {
-
-
-    }
-
+    public abstract void imprimeDados();
 }
