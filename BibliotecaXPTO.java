@@ -17,7 +17,6 @@ public class BibliotecaXPTO {
 
         for (Publicacao publicacao : publicacoes) {
             publicacao.imprimeDados();
-            System.out.println();
         }
     }
 
